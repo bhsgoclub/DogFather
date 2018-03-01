@@ -1,0 +1,32 @@
+# Language Dogfather translations for GroupButler package.
+# Copyright (C) 2018 THE GroupButler'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the GroupButler package.
+#  <Gamer.Pups.Telegram@gmail.com>, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: GroupButler 4.2\n"
+"Report-Msgid-Bugs-To: https://telegram.me/baconn\n"
+"POT-Creation-Date: 2018-02-25 02:27-0500\n"
+"PO-Revision-Date: 2018-02-25 02:27-0500\n"
+"Last-Translator:  <Gamer.Pups.Telegram@gmail.com>\n"
+"Language-Team: Language Dogfather\n"
+"Language: Dogfather\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: lua/main.lua:112
+msgid "🐞 Sorry, a *bug* occurred"
+msgstr ""
+
+#: lua/main.lua:134
+#, lua-format
+msgid ""
+"\n"
+"Hello everyone!\n"
+"My name is %s, and I'm a bot made to help administrators in their hard "
+"work.\n"
+"Unfortunately I can't work in normal groups. If you need me, please ask the "
+"creator to convert this group to a supergroup and then add me again.\n"
+msgstr ""
