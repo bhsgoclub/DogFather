@@ -1,0 +1,16 @@
+{
+  "name": "DogFather",
+  "description": "Revamp of Group Butler made by Pups for Pups",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
