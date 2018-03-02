@@ -1,0 +1,10 @@
+language: lua
+rvm:
+- 5.2
+- luarocks
+- git
+- make
+- unzip
+- redis-server
+- curl
+- libcurl4-gnutls-dev
