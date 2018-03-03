@@ -7,5 +7,6 @@ dependencies = {
   "serpent",
   "lua-cjson",
   "Lua-cURL",
-  "xavante"
+  "xavante",
+  "Copas"
 }
